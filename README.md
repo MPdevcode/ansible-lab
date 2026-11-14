@@ -22,6 +22,9 @@ ansible-lab/
 - Python 3 y el paquete Docker SDK en el controlador.
 
 > En Windows se recomienda utilizar WSL2 con Ubuntu y Docker Desktop con integración WSL habilitada. Los comandos de Ansible deben ejecutarse desde la terminal de Ubuntu (WSL), dentro de esta carpeta.
+>
+> <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9a43057f-cbec-4e9c-8d88-a949007f0701" />
+
 
 ## 1. Instalar los componentes de Ansible
 
